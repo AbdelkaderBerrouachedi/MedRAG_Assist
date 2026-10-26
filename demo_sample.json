@@ -1,0 +1,16 @@
+{
+  "encounter_id": "MEDRAG-ENC-042",
+  "specialty": "Cardiology / Primary Care",
+  "dialogue": [
+    {"speaker": "Patient", "utterance": "Good morning doctor. I have been having this terrible worsening cough and low-grade fever for three weeks now."},
+    {"speaker": "Physician", "utterance": "Good morning. Three weeks is persistent. Are you experiencing any shortness of breath, difficulty breathing, or pleuritic chest pain?"},
+    {"speaker": "Patient", "utterance": "No chest pain at all, and no real shortness of breath when resting, but I feel moderately fatigued and achy."},
+    {"speaker": "Physician", "utterance": "Have you noticed any phlegm color or blood when coughing?"},
+    {"speaker": "Patient", "utterance": "A little bit of yellowish phlegm in the mornings, but definitely no blood."},
+    {"speaker": "Patient", "utterance": "By the way, my neighbor was telling me about a television series she watched last night, it was really interesting."},
+    {"speaker": "Physician", "utterance": "Let us stay focused on your health for a moment. Do you have any known medical allergies, particularly to antibiotics?"},
+    {"speaker": "Patient", "utterance": "Yes, I am severely allergic to penicillin. I got hives and swelling the last time I took amoxicillin as a teenager."},
+    {"speaker": "Physician", "utterance": "Thank you, that is crucial information. Any history of asthma, COPD, or smoking?"},
+    {"speaker": "Patient", "utterance": "No, never smoked, and no chronic lung conditions."}
+  ]
+}
